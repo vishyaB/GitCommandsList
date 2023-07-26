@@ -1,20 +1,16 @@
-1. git --version
-2. git config --global user.name "username"
-3. git config --global user.email "user email Id"	
-
-3. Git Init repo name
-We have one local folder, to make it a repository we use ‘init’ command 
-This creates and initializes
-4.	Git add fileName
-3.	Git Commit –m “message”
-4.	Git status
-5.	Git remote
-6.	Git pull
-7.	Git push origin branchName
-8.	Git clone
-9.	Git branch branchName, parent is master
-10.	Git checkout
-11.	Git switch
-12.	Git log
-13.     Git touch
-
+1.	git --version
+2.	git config --global user.name "username"
+3.	git config --global user.email "user email Id"	
+4.	Git Init repo name: We have one local folder, to make it a repository we use ‘init’ command - This creates and initializes
+5.	Git add fileName
+6.	Git Commit –m “message”
+7.	Git status
+8.	Git remote
+9.	Git pull
+10.	Git push origin branchName
+11.	Git clone
+12.	Git branch branchName, parent is master
+13.	Git checkout
+14.	Git switch
+15.	Git log
+16.	Git touch --> to create a file
