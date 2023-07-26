@@ -1,0 +1,14 @@
+1.	Git Init repo name
+We have one local folder, to make it a repository we use ‘init’ command 
+This creates and initializes
+2.	Git add fileName
+3.	Git Commit –m “message”
+4.	Git status
+5.	Git remote
+6.	Git pull
+7.	Git push origin branchName
+8.	Git clone
+9.	Git branch branchName, parent is master
+10.	Git checkout
+11.	Git switch
+12.	Git log
